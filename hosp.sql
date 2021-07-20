@@ -27,7 +27,7 @@ CREATE TABLE `patient` (
   PRIMARY KEY (`pid`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
-insert into doctor values(2,1,'charand','abcd@gmail.com','852299ch','cardiac','A2');
-insert into patient values(1,'varshith','abffcd@gmail.com','8d52299ch','cardiac pain',0,'0',8,'Paracetomal HCQ');
-insert into patient values(3,'varshith','abffcd@gmaisl.com','8d52299ch','cardiac pain',0,'0',8,'Paracetomal HCQ');
-insert into doctor values(4,1,'cdharand','abcd@dsdgmail.com','df852299ch','cardiac','A1');
+insert into doctor values(2,1,'doc','abcd@gmail.com','doc123','cardiac','ca');
+insert into patient values(1,'yogi','abffcd@gmail.com','8d52299ch','cardiac pain',0,'0',8,'Paracetomal HCQ');
+insert into patient values(3,'yogi','abffcd@gmaisl.com','8d52299ch','cardiac pain',0,'0',8,'Paracetomal HCQ');
+insert into doctor values(4,1,'foc','abcd@dsdgmail.com','df852299ch','cardiac','A1');
